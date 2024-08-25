@@ -27,3 +27,10 @@ Use the following commands in your Discord server to interact with the bot:
 - `!dodge` - Attempt to dodge an attack. Costs 1 strength point. Success based on luck.
 - `!quit` - Forfeit the duel.
 - `!help` - Show available commands and their descriptions.
+
+Example:
+
+<img width="476" alt="duelstart_example" src="https://github.com/user-attachments/assets/adbaf748-eb2a-4bfc-b564-78b1ad873299">
+
+<br /><br />
+<img width="313" alt="discordbot_example" src="https://github.com/user-attachments/assets/bae9abc5-3e2e-4a5f-a8af-ea14ce27b6d3">
